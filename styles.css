@@ -56,3 +56,8 @@ footer {
 font-family: 'Nunito Sans', sans-serif;
 font-size: 12px;
 }
+
+/* .profile_pic  */
+.profile_pic img {
+  max-height: 300px;
+}
